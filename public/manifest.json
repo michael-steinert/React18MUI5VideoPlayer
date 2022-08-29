@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "React 18 and MUI 5",
+  "name": "React 18 and MUI 5 Essentials",
   "icons": [
     {
       "src": "favicon.ico",
